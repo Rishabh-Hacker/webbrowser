@@ -1,0 +1,1 @@
+c:\users\acer laptop\documents\visual studio 2015\Projects\OptimizedBrowser\OptimizedBrowser\bin\Debug\OptimizedBrowser.exe.config
